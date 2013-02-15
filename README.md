@@ -8,8 +8,8 @@ If you have git installed, simply clone this repo and you'll have a full set of 
 git clone git@github.com:karthikram/markdown_science.git
 ```
 
-## Table of contents
-* Tools you'll need
+# Table of contents
+* [Tools you'll need](https://github.com/karthikram/markdown_science/wiki/Tools-to-support-your-markdown-authoring)
 * [Learn markdown formatting in 3 minutes](https://github.com/karthikram/markdown_science/wiki/Learn-markdown-in-3-minutes)
 * How to cite papers
 * How to include figures
