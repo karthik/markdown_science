@@ -32,7 +32,8 @@ A PDF version of these documents are also in the `documentation` folder for offl
 
 # Complete examples
 * Writing a short abstract
-* 
+* Writing a full manuscript with tables, figures and citations
+* Writing a class syllabus
 
 If you have additional insights or ideas to share, please feel free to send in pull requests. 
 
