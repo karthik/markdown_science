@@ -13,7 +13,7 @@ git clone git@github.com:karthikram/markdown_science.git
 * How to cite papers
 * How to include figures
 * How to include tables
-* How to include your statistics
+* How to embed statistical results
 * Automating document generation
 
 ***  
