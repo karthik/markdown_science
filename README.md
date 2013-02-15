@@ -9,12 +9,15 @@ git clone git@github.com:karthikram/markdown_science.git
 ```
 
 ## Table of contents
-* Learn markdown formatting in 3 minutes
+* Tools you'll need
+* [Learn markdown formatting in 3 minutes](https://github.com/karthikram/markdown_science/wiki/Learn-markdown-in-3-minutes)
 * How to cite papers
 * How to include figures
 * How to include tables
 * How to embed statistical results
 * Automating document generation
+
+A PDF version of these documents are also in the `documentation` folder for offline access.
 
 ***  
 
