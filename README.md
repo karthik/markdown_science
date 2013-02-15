@@ -13,17 +13,26 @@ git clone git@github.com:karthikram/markdown_science.git
 ```
 
 # Table of contents
-* [Tools you'll need](https://github.com/karthikram/markdown_science/wiki/Tools-to-support-your-markdown-authoring)
-* [Learn markdown formatting in 3 minutes](https://github.com/karthikram/markdown_science/wiki/Learn-markdown-in-3-minutes)
-* How to cite papers
-* How to include figures
-* How to include tables
-* How to embed statistical results
-* Automating document generation
+* Basic setup
+    * [Tools you'll need](https://github.com/karthikram/markdown_science/wiki/Tools-to-support-your-markdown-authoring)
+    * [Learn markdown formatting in 3 minutes](https://github.com/karthikram/markdown_science/wiki/Learn-markdown-in-3-minutes)
+* Incorporating various elements into markdown files
+    * How to cite papers
+    * How to include figures
+    * How to include tables
+    * How to include equations
+    * How to embed statistical results
+* Advanced formatting
+    * Managing styles 
+    * Automating document generation
 
-A PDF version of these documents are also in the `documentation` folder for offline access.
+A PDF version of these documents are also in the `documentation` folder for offline access. *In progress*
 
 ***  
+
+# Complete examples
+* Writing a short abstract
+* 
 
 If you have additional insights or ideas to share, please feel free to send in pull requests. 
 
