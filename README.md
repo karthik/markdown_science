@@ -12,29 +12,7 @@ If you have git installed, simply clone this repo and you'll have a full set of 
 git clone git@github.com:karthikram/markdown_science.git
 ```
 
-# Table of contents
-* Basic setup
-    * [Tools you'll need](https://github.com/karthikram/markdown_science/wiki/Tools-to-support-your-markdown-authoring)
-    * [Learn markdown formatting in 3 minutes](https://github.com/karthikram/markdown_science/wiki/Learn-markdown-in-3-minutes)
-* Incorporating various elements into markdown files
-    * How to cite papers
-    * How to include figures
-    * How to include tables
-    * How to include equations
-    * How to embed statistical results
-* Advanced formatting
-    * Managing styles 
-    * Automating document generation
+# Documentation
 
-A PDF version of these documents are also in the `documentation` folder for offline access. *In progress*
-
-***  
-
-# Complete examples
-* Writing a short abstract
-* Writing a full manuscript with tables, figures and citations
-* Writing a class syllabus
-
-If you have additional insights or ideas to share, please feel free to send in pull requests. 
-
-
+A full set of documentation is slowly coming together in the [wiki](https://github.com/karthikram/markdown_science/wiki). Feel free to contribute. If you have ideas for examples, add them to the repo and send in a pull request.
+ 
