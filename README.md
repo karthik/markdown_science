@@ -1,8 +1,7 @@
 # Markdown for scientific writing
 
-I'm a big evangelist for using [markdown](http://inundata.org/2012/06/01/markdown-and-the-future-of-collaborative-manuscript-writing/) to author documents in a scientific context. I've written about this several times on my blog but decided to put together a repo to help you learn and use this same workflow with a complete set of examples. If you spend a little time going through the tutorials, you'll  be able to [stop using Microsoft Word entirely](http://inundata.org/2012/12/04/how-to-ditch-word/) and write clean, lightweight markdown files that can easily be version controlled by git. Collaboration with your coauthors would also become way more powerful and simpler.
+[Markdown](http://inundata.org/2012/06/01/markdown-and-the-future-of-collaborative-manuscript-writing/) is a fantastic and minimalist tool for authoring scientific documents. This repository is a collection of tools, resources, and tutorials to simplfy your workflow. If you spend a little time going through the tutorials you'll be able to [stop using Microsoft Word entirely](http://inundata.org/2012/12/04/how-to-ditch-word/) and write clean, lightweight markdown files that can easily be version controlled by git. Collaboration with your coauthors would also become way more powerful and simpler.
 
-If you want to learn more about how git can improve your science, read my [upcoming article](http://figshare.com/articles/git_can_facilitate_greater_reproducibility_and_increased_transparency_in_science/153821) in BMC's source code in medicine and biology.
 
 ## Copying this repo
 
