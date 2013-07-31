@@ -13,5 +13,5 @@ git clone git@github.com:karthikram/markdown_science.git
 
 # Documentation
 
-A full set of documentation is slowly coming together in the [wiki](https://github.com/karthikram/markdown_science/wiki). Feel free to contribute. If you have ideas for examples, add them to the repo and send in a pull request.
+A full set of documentation is slowly coming together in the [wiki](https://github.com/scholmd/scholmd/wiki). Feel free to contribute. If you have ideas for examples, add them to the repo and send in a pull request.
  
