@@ -8,7 +8,7 @@
 If you have git installed, simply clone this repo and you'll have a full set of examples to work with. Otherwise just hit the `zip` button at the top to download a copy.
 
 ```coffee
-git clone git@github.com:karthik/markdown_science.git
+git clone https://github.com/karthik/markdown_science.git
 ```
 
 # Documentation
